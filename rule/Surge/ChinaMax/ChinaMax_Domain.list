@@ -1,16 +1,16 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-29 02:15:49
+# UPDATED: 2025-05-03 02:15:29
 # DOMAIN: 256
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 118011
+# DOMAIN-SUFFIX: 118013
 # IP-ASN: 1
-# IP-CIDR: 8316
-# IP-CIDR6: 12721
+# IP-CIDR: 8314
+# IP-CIDR6: 12750
 # PROCESS-NAME: 12
 # USER-AGENT: 65
-# TOTAL: 139395
+# TOTAL: 139424
 .0.zone
 .00.net
 .000.link
@@ -30045,6 +30045,7 @@
 .djiang.net
 .djiavip.com
 .djicdn.com
+.djiits.com
 .djiops.com
 .djiservice.org
 .djjgj.com
@@ -70229,6 +70230,7 @@
 .mored.com
 .moredian.com
 .morefood.com
+.morefreegame.com
 .morefun-philippines.com
 .moregy.com
 .moreless.io
