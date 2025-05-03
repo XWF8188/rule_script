@@ -6,7 +6,7 @@
 # IP-CIDR: 15
 # IP6-CIDR: 7
 # TOTAL: 65
-HOST-KEYWORD,cloudflare,Cloudflare
+HOST,challenges.cloudflare.com,Cloudflare
 HOST-SUFFIX,cf-ipfs.com,Cloudflare
 HOST-SUFFIX,cf-ns.com,Cloudflare
 HOST-SUFFIX,cf-ns.net,Cloudflare
