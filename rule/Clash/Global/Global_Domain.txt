@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-05-02 02:13:51
+# UPDATED: 2025-05-06 02:12:41
 # DOMAIN: 89
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 31356
@@ -10183,7 +10183,6 @@ login.microsoftonline.com
 .hanime.me
 .hanime.xxx
 .hanime.xyz
-.hanime1.me
 .hannah.ac.uk
 .hanr-bao.mom
 .hanzhen.xmulib.org
@@ -13008,7 +13007,6 @@ login.microsoftonline.com
 .kucoin.plus
 .kum.com
 .kumo.com
-.kun66.xyz
 .kundun1069.com
 .kusugurizanmai.com
 .kutjeporno.com
@@ -14833,7 +14831,6 @@ login.microsoftonline.com
 .missav.ai
 .missav.uno
 .missav.vip
-.missav.ws
 .missendenabbey.ac.uk
 .misshotgirls.com
 .misskey-square.net
@@ -18322,7 +18319,6 @@ login.microsoftonline.com
 .qbmengmei6.mom
 .qbsc.ac.uk
 .qckprn.com
-.qcmod.xyz
 .qctconnect.com
 .qdiehzz7.me
 .qdmomentum.com
@@ -18838,7 +18834,6 @@ login.microsoftonline.com
 .ridepenguin.com
 .riding.ac.uk
 .right-2.ac.uk
-.rigums.xyz
 .rimg.com.tw
 .rin.ac.uk
 .riot-games.com
@@ -19706,7 +19701,6 @@ login.microsoftonline.com
 .sgsss.ac.uk
 .sgul.ac.uk
 .sh-xuxingda.com
-.sh83.xyz
 .shadbase.com
 .shadowcomplex.com
 .shadowslaves.com
@@ -21195,7 +21189,6 @@ login.microsoftonline.com
 .tegrazone.kr
 .tel.ac.uk
 .telebay.com
-.telega.one
 .telegram-cdn.org
 .telegram-porn.com
 .telegram.dog
@@ -21273,7 +21266,6 @@ login.microsoftonline.com
 .texture.com
 .tferwq.com
 .tfsallin.net
-.tg.dev
 .tgac.ac.uk
 .tgirlcentral.com
 .tgirlpostop.com
@@ -21501,7 +21493,6 @@ login.microsoftonline.com
 .thothub.to
 .thottok.com
 .thotvids.com
-.threads.com
 .thri.xxx
 .thrixxx.com
 .thtmod1.com
@@ -23916,7 +23907,6 @@ login.microsoftonline.com
 .xiaoou.tv
 .xiaoshuobb.life
 .xiaoyaoge.xyz
-.xin21.xyz
 .xinaia-av.buzz
 .xindelu.com
 .xinfhw.com
@@ -24805,7 +24795,6 @@ login.microsoftonline.com
 .ysmass.com
 .ysmeal.com
 .ysmeat.com
-.ysmeet.com
 .ysmelf.com
 .ysmere.com
 .ysmuch.com
@@ -27238,6 +27227,7 @@ login.microsoftonline.com
 .got-game.org
 .gotdns.ch
 .gotgeeks.com
+.gotquestions.org
 .gotrusted.com
 .gotw.ca
 .gov.taipei
@@ -27331,6 +27321,7 @@ login.microsoftonline.com
 .halktv.com.tr
 .handcraftedsoftware.org
 .hanime.tv
+.hanime1.me
 .hanminzu.org
 .hanunyi.com
 .hao.news
@@ -27648,6 +27639,7 @@ login.microsoftonline.com
 .identi.ca
 .idiomconnection.com
 .idlcoyote.com
+.idope.se
 .idouga.com
 .idreamx.com
 .idsam.com
@@ -28463,6 +28455,7 @@ login.microsoftonline.com
 .mirrormedia.com.tw
 .mirrormedia.mg
 .missav.com
+.missav.ws
 .mist.vip
 .mit.edu
 .mitao.com.tw
@@ -28804,6 +28797,7 @@ login.microsoftonline.com
 .nobel.se
 .nobelprize.org
 .nobodycanstop.us
+.nodeloc.com
 .nodeseek.com
 .nodesnoop.com
 .nofile.io
@@ -29744,6 +29738,7 @@ login.microsoftonline.com
 .simplenote.com
 .simpleproductivityblog.com
 .simpleswap.io
+.simplex.chat
 .sina.com.hk
 .sina.com.tw
 .sinchew.com.my
@@ -30007,6 +30002,7 @@ login.microsoftonline.com
 .stumbleupon.com
 .stupidvideos.com
 .stweetly.com
+.subhd.tv
 .substack.com
 .successfn.com
 .sueddeutsche.de
@@ -30171,6 +30167,7 @@ login.microsoftonline.com
 .teepr.com
 .tehrantimes.com
 .telecomspace.com
+.telega.one
 .telegra.ph
 .telegraph.co.uk
 .telesco.pe
@@ -30188,6 +30185,7 @@ login.microsoftonline.com
 .tfhub.dev
 .tfiflve.com
 .tg-me.com
+.tg.dev
 .tgfcer.com
 .tgstat.com
 .th.hao123.com
@@ -30253,6 +30251,7 @@ login.microsoftonline.com
 .thongdreams.com
 .thotsbay.tv
 .threadreaderapp.com
+.threads.com
 .threads.net
 .threatchaos.com
 .throughnightsfire.com
@@ -31423,6 +31422,7 @@ login.microsoftonline.com
 .zlibcdn2.com
 .zmedia.com.tw
 .zodgame.us
+.zodgame.xyz
 .zoho.com
 .zomobo.net
 .zonaeuropa.com
